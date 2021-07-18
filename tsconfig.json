@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "removeComments": true,
+        "module": "es6",
+        "target": "es5",
+        "lib": ["es6", "dom"]
+    }
+}
